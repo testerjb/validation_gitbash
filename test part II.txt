@@ -1,0 +1,24 @@
+
+Create a pull request and merge changes 
+
+Open github and login i.e https://github.com/testerjb/validation_gitbash
+
+Click on Add File / Create new file button in the top right side
+  set a name ie. configFile2, put some content
+  Go to the page end and select Create a new branch for this commit and start a pull request
+  Name the PR
+  Click on "Commit new file" or "Propose new file" button, whichever appears on screen
+  
+  
+		Screen with pull request appears
+
+  Type any comment and click on Create Pull request button 
+  
+		Screen for merging the pull request appears 
+
+ Click on Merge pull request and then Confirm merge buttons
+		Message "Pull request successfully merged and closed" is displayed
+ 
+ Click on <> Code in the top menu 
+		The file just merged appears in the list 
+		
